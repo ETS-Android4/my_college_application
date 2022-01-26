@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_ic_wave.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/ic_wave.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_e_library.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/e_library.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_fragment_about.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/font_robotobold.ttf.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/font/robotobold.ttf"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_curve.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/curve.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_activity_elibrary.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/activity_elibrary.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_website.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/website.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_faculty.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/faculty.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_activity_full_image_view.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/activity_full_image_view.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_about.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/about.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_ic_pdf.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/ic_pdf.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_notice.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/notice.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_pu_img.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/pu_img.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/font_robotoregular.ttf.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/font/robotoregular.ttf"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_no_data_found.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/no_data_found.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/menu_bottom_nav.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_profile_image.webp.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/profile_image.webp"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_activity_results.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/activity_results.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_gallery.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/gallery.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_drawer_header.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/drawer_header.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_activity_website.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/activity_website.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_activity_developer.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/activity_developer.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_pu_logo2.jpg.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/pu_logo2.jpg"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_rateus1.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/rateus1.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/font_robotolight.ttf.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/font/robotolight.ttf"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_ic_label.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/ic_label.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_shimmer_for_ebook.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/shimmer_for_ebook.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_fragment_notice.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/fragment_notice.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_rateus.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/rateus.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_share.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/share.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_activity_ebook.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/activity_ebook.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_clgmap.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/clgmap.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_papers.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/papers.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_ebook.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/ebook.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/menu_navigation_drawer.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/menu/navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_home.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_pu_logo1.jpg.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/pu_logo1.jpg"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_background_splashscreen.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/background_splashscreen.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_ic_download.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/ic_download.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_faculty_item_layout.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/faculty_item_layout.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_ic_computer.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/ic_computer.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_my_img.jpg.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/my_img.jpg"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_developer.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/developer.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_gallery_image.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/gallery_image.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_ic_ece.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/ic_ece.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_pu_logo.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/pu_logo.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_clg_maps.jpg.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/clg_maps.jpg"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_newsfeed_item_layout.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/newsfeed_item_layout.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_fragment_gallery.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_ic_it.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/ic_it.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_clg_img.jpg.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/clg_img.jpg"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_notepad.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/notepad.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/drawable_ic_mech.png.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/drawable/ic_mech.png"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_ebook_item_layout.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/ebook_item_layout.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_fragment_faculty.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/fragment_faculty.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/layout_branch_item_layout.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/layout/branch_item_layout.xml"
+    },
+    {
+        "merged": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/aniketgupta/Desktop/College_App_User_bmsce/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

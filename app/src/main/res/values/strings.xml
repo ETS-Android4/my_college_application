@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BMSCE</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/robotobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/robotolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/robotoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_clg">B.M.S. College of Engineering is a private engineering college in Basavanagudi, Bangalore, India. It was started in 1946 by Bhusanayana Mukundadas Sreenivasaiah and is run by the B.M.S. Educational Trust. It is affiliated with Visvesvaraya Technological University and became autonomous in 2008</string>
+</resources>
